@@ -1,4 +1,4 @@
-# Computational Physics Models in Python
+# Computational Nuclear Physics Models in Python
 
 This repository contains a collection of projects focused on modeling and simulating physical systems using Python. Each project is self-contained in its own directory and demonstrates various numerical methods and data analysis techniques.
 
