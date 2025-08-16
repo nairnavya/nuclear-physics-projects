@@ -4,8 +4,10 @@ This repository contains a collection of projects focused on modeling and simula
 
 ## Projects
 
-1.  **[Computational Modeling of Sequential Radioactive Decay Kinetics](./radioactive-decay-model/)**
-    * A Python model that implements and compares analytical and numerical (Explicit Euler) solutions for a three-component nuclear decay chain. It validates the numerical model's accuracy by analyzing convergence across varying time steps.
-    * **Tech Stack:** Python, Jupyter, NumPy, SciPy, Matplotlib, Pandas.
+1.  **[Radioactive Decay Chain](./radioactive-decay-model/)**
+    * A Python model that implements and compares analytical and numerical solutions for a three-component radioactive decay chain.
+    * **Tech:** Python, Jupyter, NumPy, SciPy, Matplotlib.
 
-2.  **Project 2 (Coming Soon)**
+2.  **[Nuclear Reactor Criticality Analysis](./nuclear-reactor-criticality-analysis/)**
+    * A multi-group diffusion model that solves the neutron balance eigenvalue problem to determine a reactor's criticality (k-eff). The analysis is performed for both a simple 2-group system and a more complex 8-group system.
+    * **Tech:** Python, Jupyter, NumPy, SciPy.
